@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background-image: url(./images/Ai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+main{
+    display: flex;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+main form{
+    width: 30%;
+    background-color:lemonchiffon;
+    padding: 20px;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+  
+button{
+    padding: 0%;
+    width: 25%;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px 175px;  
+    margin-bottom: 10px;
+    background-color: rgb(22, 8, 178);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+
+}
+#A1{
+    text-align: center;
+    color: darkblue;
+    text-shadow: 10px 5px 10px blue;
+    margin-top: 50px;
+}
